@@ -218,6 +218,9 @@ aside {
   height: 1080px;
   background-color: #222222;
 }
+.home {
+  margin-top: 265px;
+}
 
 .home-following {
   display: flex;

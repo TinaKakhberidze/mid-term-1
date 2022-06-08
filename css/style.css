@@ -220,7 +220,7 @@ aside {
   position: absolute;
   top: 0px;
   width: 319px;
-  height: 1350px;
+  height: 1200px;
   background-color: #222222;
 }
 .home {
@@ -231,6 +231,7 @@ aside {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  margin-bottom: 255px;
 }
 .home-parent {
   display: flex;
@@ -530,4 +531,75 @@ aside {
 .for-academy {
   display: flex;
   margin-left: 20px;
+}
+.schedule-container {
+  max-width: 1291px;
+  width: 100%;
+  margin: 0 auto;
+}
+.schedule {
+  margin-top: 70px;
+  margin-left: 200px;
+  margin-bottom: 270px;
+  width: 1291px;
+  height: 750px;
+}
+.schedule-header {
+  width: 1291px;
+  height: 24px;
+  display: flex;
+  margin-left: 44px;
+  margin-bottom: 30px;
+}
+.header-elements {
+  width: 68px;
+  height: 24px;
+  margin-right: 120px;
+}
+.header-elements a {
+  font-size: 18px;
+  color: #111111;
+}
+.order {
+  margin-left: 5px;
+  width: 150px;
+}
+.name {
+  margin-left: 42px;
+}
+.price {
+  margin-left: 115px;
+}
+.quantity {
+  margin-left: 110px;
+}
+
+.count {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 60px;
+  margin-bottom: 20px;
+  width: 1000px;
+  height: 72px;
+  border-top: 1px solid #afafaf;
+}
+.count7 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 60px;
+  margin-bottom: 20px;
+  width: 1000px;
+  height: 72px;
+  border-top: 1px solid #afafaf;
+}
+.count9 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 60px;
+  width: 1000px;
+  height: 72px;
+  border-top: 1px solid #afafaf;
 }

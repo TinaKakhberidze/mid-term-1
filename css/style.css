@@ -231,7 +231,7 @@ aside {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  margin-bottom: 255px;
+  margin-bottom: 65px;
 }
 .home-parent {
   display: flex;
@@ -602,4 +602,11 @@ aside {
   width: 1000px;
   height: 72px;
   border-top: 1px solid #afafaf;
+}
+.elements a {
+  font-size: 16px;
+  color: #afafaf;
+}
+.count7 a p {
+  color: #ff2288;
 }

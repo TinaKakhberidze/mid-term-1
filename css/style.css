@@ -151,8 +151,8 @@ input {
 }
 .header-line {
   margin-top: 47px;
-  margin-left: 319px;
-  width: 1475px;
+  margin-left: 350px;
+  width: 1570px;
   border-top: 1px solid #f8f8f8;
 }
 .second-header-container {
@@ -162,7 +162,6 @@ input {
 }
 .list-filters {
   display: flex;
-
   width: 1028px;
   height: 56px;
   margin-top: 45px;
@@ -221,7 +220,7 @@ aside {
   position: absolute;
   top: 0px;
   width: 319px;
-  height: 1080px;
+  height: 1350px;
   background-color: #222222;
 }
 .home {

@@ -80,7 +80,7 @@ input {
   width: 449px;
 }
 .go-pro {
-  width: 56px;
+  width: 60px;
   height: 19px;
   margin-right: 35px;
   margin-top: 48px;
@@ -148,6 +148,7 @@ input {
   color: #ffffff;
   font-size: 14px;
   text-align: center;
+  font-family: "BPG Glaho Arial";
 }
 .header-line {
   margin-top: 47px;
@@ -185,6 +186,7 @@ input {
   margin-right: 53px;
   color: #222222;
   font-size: 16px;
+  font-family: "BPG Glaho Arial";
 }
 .filters {
   display: flex;
@@ -207,6 +209,7 @@ input {
   height: 21px;
   color: #222222;
   font-size: 16px;
+  font-family: "BPG Glaho Arial";
 }
 .first-header-container {
   position: relative;
@@ -257,6 +260,7 @@ aside {
 .p-child a {
   font-size: 16px;
   color: #ffffff;
+  font-family: "BPG Glaho Arial";
 }
 .p-child-favourite {
   width: 43px;
@@ -266,10 +270,12 @@ aside {
   margin-right: 137px;
   margin-left: 9px;
   margin-top: 5px;
+  font-family: "BPG Glaho Arial";
 }
 .p-child-favourite a {
   font-size: 16px;
   color: #ffffff;
+  font-family: "BPG Glaho Arial";
 }
 .following {
   margin-top: 89px;
@@ -286,6 +292,7 @@ aside {
 .following-button p {
   font-size: 12px;
   color: #ffffff;
+  font-family: "BPG Glaho Arial";
 }
 .follow-parent {
   display: flex;
@@ -306,6 +313,7 @@ aside {
 .follow-p a {
   font-size: 16px;
   color: #ffffff;
+  font-family: "BPG Glaho Arial";
 }
 .follow-load {
   display: flex;
@@ -319,6 +327,7 @@ aside {
 .follow-load a {
   font-size: 14px;
   color: #ffffff;
+  font-family: "BPG Glaho Arial";
 }
 .section-group-one-container {
   max-width: 1028px;
@@ -329,6 +338,7 @@ aside {
   display: grid;
   grid-template-columns: auto auto auto auto;
   grid-template-rows: 289px;
+  grid-column-gap: 25px;
   margin-left: 100px;
 }
 .box {
@@ -343,10 +353,12 @@ aside {
   border-radius: 12px;
 }
 .box a p {
+  margin-left: 20px;
   font-size: 18px;
   width: 289px;
   height: 52px;
   color: #222222;
+  font-family: "BPG Glaho Arial";
 }
 .load2 {
   display: flex;
@@ -364,6 +376,7 @@ aside {
   height: 21px;
   font-size: 16px;
   color: #222222;
+  font-family: "BPG Glaho Arial";
 }
 .top-designers-container {
   max-width: 1601px;
@@ -386,7 +399,7 @@ aside {
   justify-content: space-between;
 }
 .top-h {
-  width: 209px;
+  width: 270px;
   height: 43px;
   margin-top: 67px;
 }
@@ -394,6 +407,7 @@ aside {
   font-size: 32px;
   color: #222222;
   margin-left: 15px;
+  font-family: "DejaVu Sans Bold";
 }
 .top-view {
   width: 54px;
@@ -404,6 +418,7 @@ aside {
   font-size: 14px;
   color: #222222;
   opacity: 0.3;
+  font-family: "BPG Glaho Arial";
 }
 .avatar-information {
   display: flex;
@@ -428,6 +443,7 @@ aside {
   color: #222222;
   margin-left: 30px;
   margin-top: 15px;
+  font-family: "BPG Glaho Arial";
 }
 .avatar-group .city {
   display: flex;
@@ -440,6 +456,7 @@ aside {
   opacity: 0.6;
   margin-left: 30px;
   margin-top: 10px;
+  font-family: "BPG Glaho Arial";
 }
 .avatar-following {
   position: relative;
@@ -459,6 +476,7 @@ aside {
   top: 12px;
   font-size: 14px;
   color: #222222;
+  font-family: "BPG Glaho Arial";
 }
 .footer-container {
   max-width: 1094px;
@@ -490,6 +508,7 @@ aside {
 .column-header p {
   font-size: 16px;
   color: #222222;
+  font-family: "BPG Glaho Arial";
 }
 .columns {
   display: flex;
@@ -508,6 +527,7 @@ aside {
 .s-column a {
   font-size: 16px;
   color: #222222;
+  font-family: "BPG Glaho Arial";
 }
 .last-part-container {
   max-width: 1235px;
@@ -531,6 +551,21 @@ aside {
 .for-academy {
   display: flex;
   margin-left: 20px;
+}
+.for {
+  margin-top: 5px;
+  margin-right: 5px;
+}
+
+.for span {
+  font-size: 16px;
+  color: #222222;
+  font-family: "BPG Glaho Arial";
+}
+.smartacademy span {
+  font-size: 16px;
+  color: #222222;
+  font-family: "DejaVu Sans Bold";
 }
 .schedule-container {
   max-width: 1291px;
@@ -559,6 +594,7 @@ aside {
 .header-elements a {
   font-size: 18px;
   color: #111111;
+  font-family: "BPG Glaho Arial";
 }
 .order {
   margin-left: 5px;
@@ -606,7 +642,9 @@ aside {
 .elements a {
   font-size: 16px;
   color: #afafaf;
+  font-family: "BPG Glaho Arial";
 }
 .count7 a p {
   color: #ff2288;
+  font-family: "BPG Glaho Arial";
 }

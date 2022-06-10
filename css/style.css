@@ -675,15 +675,9 @@ input:hover {
   transition-delay: 0.1s;
   border-radius: 12px;
   cursor: pointer;
-  background-color: #f8f8f8;
+  background-color: #111111;
 }
-.upload a:hover {
-  transition-property: all;
-  transition-delay: 0.1s;
-  border-radius: 12px;
-  cursor: pointer;
-  color: #111111;
-}
+
 .list div:hover {
   transition-property: all;
   transition-delay: 0.1s;
@@ -698,12 +692,61 @@ input:hover {
   cursor: pointer;
   background-color: #ff2288;
 }
-.follow-parent:hover {
+.follow-p a:hover {
+  transition-property: all;
+  transition-delay: 0.1s;
+  border-radius: 12px;
+  cursor: pointer;
+  color: #ff2288;
+}
+.follow-load a:hover {
+  transition-property: all;
+  transition-delay: 0.1s;
+  border-radius: 12px;
+  cursor: pointer;
+  color: #ff2288;
+}
+.load2:hover {
   transition-property: all;
   transition-delay: 0.1s;
   border-radius: 12px;
   cursor: pointer;
   background-color: #ff2288;
+}
+.filters:hover {
+  transition-property: all;
+  transition-delay: 0.1s;
+  border-radius: 12px;
+  cursor: pointer;
+  background-color: #ff2288;
+}
+.top-h h1:hover {
+  transition-property: all;
+  transition-delay: 0.1s;
+  border-radius: 12px;
+  cursor: pointer;
+  color: #ff2288;
+}
+.top-view a:hover {
+  transition-property: all;
+  transition-delay: 0.1s;
+  border-radius: 12px;
+  cursor: pointer;
+  color: #ff2288;
+}
+.column-header p:hover {
+  transition-property: all;
+  transition-delay: 0.1s;
+  border-radius: 12px;
+  cursor: pointer;
+  color: #ff2288;
+}
+.columns p:hover {
+  transition-property: all;
+  transition-delay: 0.1s;
+  border-radius: 12px;
+  cursor: pointer;
+  color: #ff2288;
 }
 .box img:hover {
   transition-property: all;
